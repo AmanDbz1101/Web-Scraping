@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+mrdoob,three.js,https://github.com/mrdoob/three.js,103000,JavaScript 3D Library.
+pmndrs,react-three-fiber,https://github.com/pmndrs/react-three-fiber,27800,🇨🇭 A React renderer for Three.js
+libgdx,libgdx,https://github.com/libgdx/libgdx,23500,Desktop/Android/HTML5/iOS Java game development framework
+BabylonJS,Babylon.js,https://github.com/BabylonJS/Babylon.js,23400,"Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+FreeCAD,FreeCAD,https://github.com/FreeCAD/FreeCAD,22200,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+ssloy,tinyrenderer,https://github.com/ssloy/tinyrenderer,20900,A brief computer graphics / rendering course
+lettier,3d-game-shaders-for-beginners,https://github.com/lettier/3d-game-shaders-for-beginners,18100,"🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game."
+aframevr,aframe,https://github.com/aframevr/aframe,16800,🅰️ Web framework for building virtual reality experiences.
+blender,blender,https://github.com/blender/blender,13700,Official mirror of Blender
+CesiumGS,cesium,https://github.com/CesiumGS/cesium,13100,An open-source JavaScript library for world-class 3D globes and maps 🌎
+4ian,GDevelop,https://github.com/4ian/GDevelop,12100,"🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone."
+isl-org,Open3D,https://github.com/isl-org/Open3D,11700,Open3D: A Modern Library for 3D Data Processing
+MonoGame,MonoGame,https://github.com/MonoGame/MonoGame,11700,One framework for creating powerful cross-platform games.
+mapbox,mapbox-gl-js,https://github.com/mapbox/mapbox-gl-js,11300,"Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL"
+metafizzy,zdog,https://github.com/metafizzy/zdog,10400,"Flat, round, designer-friendly pseudo-3D engine for canvas & SVG"
+timzhang642,3D-Machine-Learning,https://github.com/timzhang642/3D-Machine-Learning,9800,A resource repository for 3D machine learning
+nerfstudio-project,nerfstudio,https://github.com/nerfstudio-project/nerfstudio,9700,A collaboration friendly studio for NeRFs
+cocos,cocos-engine,https://github.com/cocos/cocos-engine,8900,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment."
+domlysz,BlenderGIS,https://github.com/domlysz/BlenderGIS,7900,Blender addons to make the bridge between Blender and geographic data
+FyroxEngine,Fyrox,https://github.com/FyroxEngine/Fyrox,7800,3D and 2D game engine written in Rust
