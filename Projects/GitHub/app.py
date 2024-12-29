@@ -53,10 +53,10 @@ st.dataframe(data,column_config={
                 },
                 hide_index=True,)
     
-option = st.selectbox(
+options = st.multiselect(
     "Choose the topics you want to scrape",
     data['Topic'],
-    index=None,
+
 )
 
 # st.write("You selected:", options)
@@ -68,7 +68,7 @@ if st.button:
 
     for link, topic in zip(data['Link'] , data['Topic']):
         
-        if (topic == option):
+        if topic in options:
             st.write(f'Scraping top repositories for {topic}')
             
             response = requests.get(link)
