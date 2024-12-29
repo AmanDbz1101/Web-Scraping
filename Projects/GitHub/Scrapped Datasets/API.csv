@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+public-apis,public-apis,https://github.com/public-apis/public-apis,321000,A collective list of free APIs
+neovim,neovim,https://github.com/neovim/neovim,84700,Vim-fork focused on extensibility and usability
+fastapi,fastapi,https://github.com/fastapi/fastapi,79000,"FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+hoppscotch,hoppscotch,https://github.com/hoppscotch/hoppscotch,66300,"Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+strapi,strapi,https://github.com/strapi/strapi,64400,"🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+ocornut,imgui,https://github.com/ocornut/imgui,62100,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+QuivrHQ,quivr,https://github.com/QuivrHQ/quivr,37000,"Opiniated RAG for integrating GenAI in your apps 🧠 Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want."
+slatedocs,slate,https://github.com/slatedocs/slate,36100,Beautiful static documentation for your API
+trpc,trpc,https://github.com/trpc/trpc,35400,🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+Kong,insomnia,https://github.com/Kong/insomnia,35300,"The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
+httpie,cli,https://github.com/httpie/cli,34300,"🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more."
+ccxt,ccxt,https://github.com/ccxt/ccxt,33800,A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+hasura,graphql-engine,https://github.com/hasura/graphql-engine,31300,"Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events."
+Binaryify,NeteaseCloudMusicApi,https://github.com/Binaryify/NeteaseCloudMusicApi,30300,网易云音乐 Node.js API service
+encode,django-rest-framework,https://github.com/encode/django-rest-framework,28600,Web APIs for Django. 🎸
+directus,directus,https://github.com/directus/directus,28500,"The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+YMFE,yapi,https://github.com/YMFE/yapi,27500,YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+mudler,LocalAI,https://github.com/mudler/LocalAI,27300,"🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference"
+littlecodersh,ItChat,https://github.com/littlecodersh/ItChat,25700,A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+PostgREST,postgrest,https://github.com/PostgREST/postgrest,24100,REST API for any Postgres database

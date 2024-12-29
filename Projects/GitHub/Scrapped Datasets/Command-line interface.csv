@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+ohmyzsh,ohmyzsh,https://github.com/ohmyzsh/ohmyzsh,175000,"🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+junegunn,fzf,https://github.com/junegunn/fzf,66700,🌸 A command-line fuzzy finder
+sherlock-project,sherlock,https://github.com/sherlock-project/sherlock,61400,Hunt down social media accounts by username across social networks
+jesseduffield,lazygit,https://github.com/jesseduffield/lazygit,54600,simple terminal UI for git commands
+n8n-io,n8n,https://github.com/n8n-io/n8n,53100,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+sharkdp,bat,https://github.com/sharkdp/bat,50300,A cat(1) clone with wings.
+BurntSushi,ripgrep,https://github.com/BurntSushi/ripgrep,49500,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+wagoodman,dive,https://github.com/wagoodman/dive,48700,A tool for exploring each layer in a docker image
+google,zx,https://github.com/google/zx,43300,A tool for writing better scripts
+All-Hands-AI,OpenHands,https://github.com/All-Hands-AI/OpenHands,39400,"🙌 OpenHands: Code Less, Make More"
+spf13,cobra,https://github.com/spf13/cobra,38700,A Commander for modern Go CLI interactions
+chubin,cheat.sh,https://github.com/chubin/cheat.sh,38700,the only cheat sheet you need
+cli,cli,https://github.com/cli/cli,37800,GitHub’s official command line tool
+ultralytics,ultralytics,https://github.com/ultralytics/ultralytics,34700,Ultralytics YOLO11 🚀
+sharkdp,fd,https://github.com/sharkdp/fd,34600,"A simple, fast and user-friendly alternative to 'find'"
+httpie,cli,https://github.com/httpie/cli,34300,"🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more."
+alebcay,awesome-shell,https://github.com/alebcay/awesome-shell,33400,"A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+ibraheemdev,modern-unix,https://github.com/ibraheemdev/modern-unix,31300,A collection of modern/faster/saner alternatives to common unix commands.
+tqdm,tqdm,https://github.com/tqdm/tqdm,29000,"⚡ A Fast, Extensible Progress Bar for Python and CLI"
+charmbracelet,bubbletea,https://github.com/charmbracelet/bubbletea,28800,A powerful little TUI framework 🏗

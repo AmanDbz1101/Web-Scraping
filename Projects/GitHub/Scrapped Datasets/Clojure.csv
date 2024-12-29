@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+metabase,metabase,https://github.com/metabase/metabase,39200,"The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋"
+penpot,penpot,https://github.com/penpot/penpot,34400,Penpot: The open-source design tool for design and code collaboration
+logseq,logseq,https://github.com/logseq/logseq,34000,"A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap"
+deeplearning4j,deeplearning4j,https://github.com/deeplearning4j/deeplearning4j,13700,"Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn..."
+LightTable,LightTable,https://github.com/LightTable/LightTable,11700,The Light Table IDE ⛺
+kanaka,mal,https://github.com/kanaka/mal,10100,mal - Make a Lisp
+lk-geimfari,awesomo,https://github.com/lk-geimfari/awesomo,9500,Cool open source projects. Choose your project and get involved in Open Source development now.
+tonsky,datascript,https://github.com/tonsky/datascript,5500,"Immutable database and Datalog query engine for Clojure, ClojureScript and JS"
+reagent-project,reagent,https://github.com/reagent-project/reagent,4800,A minimalistic ClojureScript interface to React.js
+defold,defold,https://github.com/defold/defold,4500,"Defold is a completely free to use game engine for development of desktop, mobile and web games."
+izhangzhihao,intellij-rainbow-brackets,https://github.com/izhangzhihao/intellij-rainbow-brackets,4500,🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
+riemann,riemann,https://github.com/riemann/riemann,4200,"A network event stream processing system, in Clojure."
+babashka,babashka,https://github.com/babashka/babashka,4100,"Native, fast starting Clojure interpreter for scripting"
+weavejester,compojure,https://github.com/weavejester/compojure,4100,A concise routing library for Ring/Clojure
+bbatsov,clojure-style-guide,https://github.com/bbatsov/clojure-style-guide,4000,A community coding style guide for the Clojure programming language
+status-im,status-mobile,https://github.com/status-im/status-mobile,3900,"a free (libre) open source, mobile OS for Ethereum"
+ring-clojure,ring,https://github.com/ring-clojure/ring,3800,Clojure HTTP server abstraction
+clojure-emacs,cider,https://github.com/clojure-emacs/cider,3600,The Clojure Interactive Development Environment that Rocks for Emacs
+viebel,klipse,https://github.com/viebel/klipse,3100,Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+tallesl,Rich-Hickey-fanclub,https://github.com/tallesl/Rich-Hickey-fanclub,3100,"""every time I watch one of his talks I feel like someone has gone in and organized my brain"""

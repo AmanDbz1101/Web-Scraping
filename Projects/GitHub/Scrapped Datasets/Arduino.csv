@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+arendst,Tasmota,https://github.com/arendst/Tasmota,22500,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at"
+MarlinFirmware,Marlin,https://github.com/MarlinFirmware/Marlin,16400,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+tinygo-org,tinygo,https://github.com/tinygo-org/tinygo,15600,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
+arduino,Arduino,https://github.com/arduino/Arduino,14200,Arduino IDE 1.x
+espressif,arduino-esp32,https://github.com/espressif/arduino-esp32,14000,Arduino core for the ESP32
+SpacehuhnTech,esp8266_deauther,https://github.com/SpacehuhnTech/esp8266_deauther,13600,Affordable WiFi hacking platform for testing and learning
+rwaldron,johnny-five,https://github.com/rwaldron/johnny-five,13300,"JavaScript Robotics and IoT programming framework, developed at Bocoup."
+gurugio,lowlevelprogramming-university,https://github.com/gurugio/lowlevelprogramming-university,10500,How to be low-level programmer
+hybridgroup,gobot,https://github.com/hybridgroup/gobot,9000,"Golang framework for robotics, drones, and the Internet of Things (IoT)"
+platformio,platformio-core,https://github.com/platformio/platformio-core,8000,Your Gateway to Embedded Software Development Excellence 👽
+bblanchon,ArduinoJson,https://github.com/bblanchon/ArduinoJson,6800,📟 JSON library for Arduino and embedded C++. Simple and efficient.
+tzapu,WiFiManager,https://github.com/tzapu/WiFiManager,6700,ESP8266 WiFi Connection manager with web captive portal
+justcallmekoko,ESP32Marauder,https://github.com/justcallmekoko/ESP32Marauder,6400,A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+olikraus,u8g2,https://github.com/olikraus/u8g2,5300,"U8glib library for monochrome displays, version 2"
+omriharel,deej,https://github.com/omriharel/deej,4900,Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
+Serial-Studio,Serial-Studio,https://github.com/Serial-Studio/Serial-Studio,4700,Flexible data visualization software for embedded devices and projects
+ClemensElflein,OpenMower,https://github.com/ClemensElflein/OpenMower,4700,"Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!"
+Arduino-IRremote,Arduino-IRremote,https://github.com/Arduino-IRremote/Arduino-IRremote,4600,Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
+arduino,arduino-cli,https://github.com/arduino/arduino-cli,4400,Arduino command line tool
+hybridgroup,cylon,https://github.com/hybridgroup/cylon,4200,"JavaScript framework for robotics, drones, and the Internet of Things (IoT)"

@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+electron,electron,https://github.com/electron/electron,115000,"Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+puppeteer,puppeteer,https://github.com/puppeteer/puppeteer,89300,JavaScript API for Chrome and Firefox
+microsoft,playwright,https://github.com/microsoft/playwright,68100,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
+FiloSottile,mkcert,https://github.com/FiloSottile/mkcert,51500,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+jaywcjlove,linux-command,https://github.com/jaywcjlove/linux-command,32500,Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+AIHawk-FOSS,Auto_Jobs_Applier_AI_Agent,https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent,23900,"Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way."
+ovity,octotree,https://github.com/ovity/octotree,22900,GitHub on steroids
+segment-boneyard,nightmare,https://github.com/segment-boneyard/nightmare,19600,A high-level browser automation library.
+gildas-lormeau,SingleFile,https://github.com/gildas-lormeau/SingleFile,16300,Web Extension for saving a faithful copy of a complete web page in a single HTML file
+GoogleChrome,chrome-extensions-samples,https://github.com/GoogleChrome/chrome-extensions-samples,15800,Chrome Extensions Samples
+checkly,headless-recorder,https://github.com/checkly/headless-recorder,15100,Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+google,WebFundamentals,https://github.com/google/WebFundamentals,13900,Former git repo for WebFundamentals on developers.google.com
+schickling,chromeless,https://github.com/schickling/chromeless,13200,🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.
+MetaMask,metamask-extension,https://github.com/MetaMask/metamask-extension,12200,🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+crimx,ext-saladict,https://github.com/crimx/ext-saladict,12200,"🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching."
+casesandberg,react-color,https://github.com/casesandberg/react-color,12100,"🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more"
+moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData,11600,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux)."
+chromedp,chromedp,https://github.com/chromedp/chromedp,11200,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol."
+ajayyy,SponsorBlock,https://github.com/ajayyy/SponsorBlock,10600,Skip YouTube video sponsors (browser extension)
+xifangczy,cat-catch,https://github.com/xifangczy/cat-catch,10400,猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension

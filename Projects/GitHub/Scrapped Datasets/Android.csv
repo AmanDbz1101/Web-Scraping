@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+flutter,flutter,https://github.com/flutter/flutter,167000,Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+facebook,react-native,https://github.com/facebook/react-native,120000,A framework for building native applications using React
+Genymobile,scrcpy,https://github.com/Genymobile/scrcpy,115000,Display and control your Android device
+justjavac,free-programming-books-zh_CN,https://github.com/justjavac/free-programming-books-zh_CN,112000,📚 免费的计算机编程类中文书籍，欢迎投稿
+Hack-with-Github,Awesome-Hacking,https://github.com/Hack-with-Github/Awesome-Hacking,87100,"A collection of various awesome lists for hackers, pentesters and security researchers"
+Solido,awesome-flutter,https://github.com/Solido/awesome-flutter,54200,"An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+tldr-pages,tldr,https://github.com/tldr-pages/tldr,52400,📚 Collaborative cheatsheets for console commands
+wasabeef,awesome-android-ui,https://github.com/wasabeef/awesome-android-ui,51100,A curated list of awesome Android UI/UX libraries
+google,material-design-icons,https://github.com/google/material-design-icons,50900,Material Design icons by Google (Material Symbols)
+laurent22,joplin,https://github.com/laurent22/joplin,46800,"Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS."
+appwrite,appwrite,https://github.com/appwrite/appwrite,46200,"Your backend, minus the hassle."
+square,okhttp,https://github.com/square/okhttp,46000,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
+android,architecture-samples,https://github.com/android/architecture-samples,44600,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+square,retrofit,https://github.com/square/retrofit,43200,A type-safe HTTP client for Android and the JVM
+skylot,jadx,https://github.com/skylot/jadx,42300,Dex to Java decompiler
+dcloudio,uni-app,https://github.com/dcloudio/uni-app,40300,A cross-platform framework using Vue.js
+fastlane,fastlane,https://github.com/fastlane/fastlane,39800,🚀 The easiest way to automate building and releasing your iOS and Android apps
+PhilJay,MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,37700,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations."
+termux,termux-app,https://github.com/termux/termux-app,37700,Termux - a terminal emulator application for Android OS extendible by variety of packages.
+2dust,v2rayNG,https://github.com/2dust/v2rayNG,37300,"A V2Ray client for Android, support Xray core and v2fly core"

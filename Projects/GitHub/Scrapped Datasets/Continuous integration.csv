@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+localstack,localstack,https://github.com/localstack/localstack,56900,💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+harness,harness,https://github.com/harness/harness,32400,"Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries."
+jenkinsci,jenkins,https://github.com/jenkinsci/jenkins,23400,Jenkins automation server
+auchenberg,volkswagen,https://github.com/auchenberg/volkswagen,14900,"🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass."
+milanm,DevOps-Roadmap,https://github.com/milanm/DevOps-Roadmap,13200,DevOps Roadmap for 2024. with learning resources
+dagger,dagger,https://github.com/dagger/dagger,11600,An engine to run your pipelines in containers
+openshift,origin,https://github.com/openshift/origin,8500,Conformance test suite for OpenShift
+concourse,concourse,https://github.com/concourse/concourse,7500,Concourse is a container-based continuous thing-doer written in Go.
+gocd,gocd,https://github.com/gocd/gocd,7100,GoCD - Continuous Delivery server main repository
+buildbot,buildbot,https://github.com/buildbot/buildbot,5300,Python-based continuous integration testing framework; your pull requests are more than welcome!
+gaia-pipeline,gaia,https://github.com/gaia-pipeline/gaia,5200,Build powerful pipelines in any programming language.
+Flagsmith,flagsmith,https://github.com/Flagsmith/flagsmith,5100,Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+ovh,cds,https://github.com/ovh/cds,4600,Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+Strider-CD,strider,https://github.com/Strider-CD/strider,4600,Open Source Continuous Integration & Deployment Server
+jenkins-x,jx,https://github.com/jenkins-x/jx,4600,Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
+TheLartians,ModernCppStarter,https://github.com/TheLartians/ModernCppStarter,4500,"🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more."
+JamesIves,github-pages-deploy-action,https://github.com/JamesIves/github-pages-deploy-action,4300,🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+werf,werf,https://github.com/werf/werf,4300,A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
+iterative,cml,https://github.com/iterative/cml,4100,♾️ CML - Continuous Machine Learning | CI/CD for ML
+SamKirkland,FTP-Deploy-Action,https://github.com/SamKirkland/FTP-Deploy-Action,4000,Deploys a GitHub project to a FTP server using GitHub actions

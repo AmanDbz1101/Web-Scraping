@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+realm,SwiftLint,https://github.com/realm/SwiftLint,18700,A tool to enforce Swift style and conventions.
+facebook,infer,https://github.com/facebook/infer,15000,"A static analyzer for Java, C, C++, and Objective-C"
+analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis,13500,"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
+federico-busato,Modern-CPP-Programming,https://github.com/federico-busato/Modern-CPP-Programming,12400,Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+Kristories,awesome-guidelines,https://github.com/Kristories/awesome-guidelines,9900,A curated list of high quality coding style conventions and standards.
+super-linter,super-linter,https://github.com/super-linter/super-linter,9600,Combination of multiple linters to run as a GitHub Action or standalone
+SonarSource,sonarqube,https://github.com/SonarSource/sonarqube,9200,Continuous Inspection
+checkstyle,checkstyle,https://github.com/checkstyle/checkstyle,8400,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program."
+reviewdog,reviewdog,https://github.com/reviewdog/reviewdog,8100,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+facebook,pyre-check,https://github.com/facebook/pyre-check,6900,Performant type-checking for python.
+detekt,detekt,https://github.com/detekt/detekt,6300,Static code analysis for Kotlin
+trekhleb,state-of-the-art-shitcode,https://github.com/trekhleb/state-of-the-art-shitcode,5700,💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+import-js,eslint-plugin-import,https://github.com/import-js/eslint-plugin-import,5600,ESLint plugin with rules that help validate proper imports.
+pylint-dev,pylint,https://github.com/pylint-dev/pylint,5400,It's not just a linter that annoys you!
+pmd,pmd,https://github.com/pmd/pmd,4900,An extensible multilanguage static code analyzer.
+simplecov-ruby,simplecov,https://github.com/simplecov-ruby/simplecov,4800,Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
+kucherenko,jscpd,https://github.com/kucherenko/jscpd,4700,Copy/paste detector for programming source code.
+phpro,grumphp,https://github.com/phpro/grumphp,4200,A PHP code-quality tool
+htmlhint,HTMLHint,https://github.com/htmlhint/HTMLHint,3100,⚙️ The static code analysis tool you need for your HTML
+crate-ci,typos,https://github.com/crate-ci/typos,2800,Source code spell checker

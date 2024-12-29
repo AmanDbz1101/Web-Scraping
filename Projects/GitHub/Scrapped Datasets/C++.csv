@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+practical-tutorials,project-based-learning,https://github.com/practical-tutorials/project-based-learning,209000,Curated list of project-based tutorials
+CyC2018,CS-Notes,https://github.com/CyC2018/CS-Notes,178000,📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+fffaraz,awesome-cpp,https://github.com/fffaraz/awesome-cpp,60900,"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+azl397985856,leetcode,https://github.com/azl397985856/leetcode,54900,LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+youngyangyang04,leetcode-master,https://github.com/youngyangyang04/leetcode-master,52900,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+WerWolv,ImHex,https://github.com/WerWolv/ImHex,45600,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
+Light-City,CPlusPlusThings,https://github.com/Light-City/CPlusPlusThings,39800,C++那些事
+ClickHouse,ClickHouse,https://github.com/ClickHouse/ClickHouse,38200,ClickHouse® is a real-time analytics DBMS
+huihut,interview,https://github.com/huihut/interview,35100,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…"
+carbon-language,carbon-lang,https://github.com/carbon-language/carbon-lang,32500,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)"
+doocs,leetcode,https://github.com/doocs/leetcode,32299,🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+CMU-Perceptual-Computing-Lab,openpose,https://github.com/CMU-Perceptual-Computing-Lab/openpose,31500,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+TheAlgorithms,C-Plus-Plus,https://github.com/TheAlgorithms/C-Plus-Plus,31000,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes."
+aseprite,aseprite,https://github.com/aseprite/aseprite,30000,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)"
+microsoft,calculator,https://github.com/microsoft/calculator,29900,Windows Calculator: A simple yet powerful calculator that ships with Windows
+dragonflydb,dragonfly,https://github.com/dragonflydb/dragonfly,26400,A modern replacement for Redis and Memcached
+gabime,spdlog,https://github.com/gabime/spdlog,24800,Fast C++ logging library.
+changkun,modern-cpp-tutorial,https://github.com/changkun/modern-cpp-tutorial,24300,📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+ethereum,solidity,https://github.com/ethereum/solidity,23600,"Solidity, the Smart Contract Programming Language"
+microsoft,vcpkg,https://github.com/microsoft/vcpkg,23600,"C++ Library Manager for Windows, Linux, and MacOS"

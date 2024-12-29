@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+vercel,next.js,https://github.com/vercel/next.js,128000,The React Framework
+rust-lang,rust,https://github.com/rust-lang/rust,100000,Empowering everyone to build reliable and efficient software.
+sveltejs,svelte,https://github.com/sveltejs/svelte,80700,web development for the rest of us
+webpack,webpack,https://github.com/webpack/webpack,64900,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+FuelLabs,sway,https://github.com/FuelLabs/sway,62500,🌴 Empowering everyone to build reliable and efficient smart contracts.
+gatsbyjs,gatsby,https://github.com/gatsbyjs/gatsby,55300,"The best React-based framework with performance, scalability and security built in."
+JetBrains,kotlin,https://github.com/JetBrains/kotlin,49700,The Kotlin Programming Language.
+parcel-bundler,parcel,https://github.com/parcel-bundler/parcel,43600,The zero configuration build tool for the web. 📦🚀
+babel,babel,https://github.com/babel/babel,43300,🐠 Babel is a compiler for writing next generation JavaScript.
+evanw,esbuild,https://github.com/evanw/esbuild,38400,An extremely fast bundler for the web
+typst,typst,https://github.com/typst/typst,36300,A new markup-based typesetting system that is powerful and easy to learn.
+vlang,v,https://github.com/vlang/v,35900,"Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io"
+ziglang,zig,https://github.com/ziglang/zig,35800,"General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software."
+markedjs,marked,https://github.com/markedjs/marked,33500,A markdown parser and compiler. Built for speed.
+carbon-language,carbon-lang,https://github.com/carbon-language/carbon-lang,32500,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)"
+swc-project,swc,https://github.com/swc-project/swc,31400,Rust-based platform for the Web
+vercel,pkg,https://github.com/vercel/pkg,24300,Package your Node.js project into an executable
+v8,v8,https://github.com/v8/v8,23600,The official mirror of the V8 Git repository
+oracle,graal,https://github.com/oracle/graal,20500,"GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀"
+crystal-lang,crystal,https://github.com/crystal-lang/crystal,19500,The Crystal Programming Language

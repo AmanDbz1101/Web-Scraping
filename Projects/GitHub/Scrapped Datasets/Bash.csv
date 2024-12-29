@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+jlevy,the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line,154000,"Master the command line, in one page"
+nvm-sh,nvm,https://github.com/nvm-sh/nvm,81200,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+junegunn,fzf,https://github.com/junegunn/fzf,66700,🌸 A command-line fuzzy finder
+starship,starship,https://github.com/starship/starship,46100,"☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+google,zx,https://github.com/google/zx,43300,A tool for writing better scripts
+LeCoupa,awesome-cheatsheets,https://github.com/LeCoupa/awesome-cheatsheets,40900,"👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+acmesh-official,acme.sh,https://github.com/acmesh-official/acme.sh,40500,A pure Unix shell script implementing ACME client protocol
+dylanaraps,pure-bash-bible,https://github.com/dylanaraps/pure-bash-bible,36700,📖 A collection of pure bash alternatives to external processes.
+koalaman,shellcheck,https://github.com/koalaman/shellcheck,36700,"ShellCheck, a static analysis tool for shell scripts"
+alebcay,awesome-shell,https://github.com/alebcay/awesome-shell,33400,"A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+jaywcjlove,linux-command,https://github.com/jaywcjlove/linux-command,32500,Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+mathiasbynens,dotfiles,https://github.com/mathiasbynens/dotfiles,30400,"🔧 .files, including ~/.macos — sensible hacker defaults for macOS"
+withfig,autocomplete,https://github.com/withfig/autocomplete,24600,IDE-style autocomplete for your existing terminal & shell
+kingToolbox,WindTerm,https://github.com/kingToolbox/WindTerm,24300,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+ajeetdsouza,zoxide,https://github.com/ajeetdsouza/zoxide,23700,A smarter cd command. Supports all major shells.
+asdf-vm,asdf,https://github.com/asdf-vm/asdf,22300,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more"
+dylanaraps,neofetch,https://github.com/dylanaraps/neofetch,22300,🖼️ A command-line system information tool written in bash 3.2+
+warpdotdev,Warp,https://github.com/warpdotdev/Warp,21800,"Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster."
+atuinsh,atuin,https://github.com/atuinsh/atuin,21600,✨ Magical shell history
+Nyr,openvpn-install,https://github.com/Nyr/openvpn-install,19400,"OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora"

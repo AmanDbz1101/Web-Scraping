@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+ovity,octotree,https://github.com/ovity/octotree,22900,GitHub on steroids
+gitpod-io,gitpod,https://github.com/gitpod-io/gitpod,13000,The developer platform for on-demand cloud development environments to create software faster and more securely.
+reviewdog,reviewdog,https://github.com/reviewdog/reviewdog,8100,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+Codium-ai,pr-agent,https://github.com/Codium-ai/pr-agent,6400,"🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍"
+danger,danger,https://github.com/danger/danger,5500,"🚫 Stop saying ""you forgot to …"" in code review (in Ruby)"
+danger,danger-js,https://github.com/danger/danger-js,5300,"⚠️ Stop saying ""you forgot to …"" in code review"
+joho,awesome-code-review,https://github.com/joho/awesome-code-review,4400,"An ""Awesome"" list of code review resources - articles, papers, tools, etc"
+ajinabraham,nodejsscan,https://github.com/ajinabraham/nodejsscan,2400,nodejsscan is a static security code scanner for Node.js applications.
+microsoft,vscode-pull-request-github,https://github.com/microsoft/vscode-pull-request-github,2300,GitHub Pull Requests for Visual Studio Code
+crev-dev,cargo-crev,https://github.com/crev-dev/cargo-crev,2100,A cryptographically verifiable code review system for the cargo (Rust) package manager.
+mbj,mutant,https://github.com/mbj/mutant,2000,Automated code reviews via mutation testing - semantic code coverage.
+houndci,hound,https://github.com/houndci/hound,2000,Automated code review for GitHub pull requests.
+Tencent,CodeAnalysis,https://github.com/Tencent/CodeAnalysis,1700,Static Code Analysis - 静态代码分析
+mattzcarey,code-review-gpt,https://github.com/mattzcarey/code-review-gpt,1600,"Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI"
+coderabbitai,ai-pr-reviewer,https://github.com/coderabbitai/ai-pr-reviewer,1600,AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
+reviewboard,reviewboard,https://github.com/reviewboard/reviewboard,1600,An extensible and friendly code review tool for projects and companies of all sizes.
+ryanmcdermott,code-review-tips,https://github.com/ryanmcdermott/code-review-tips,1500,🔬 Common problems to look for in a code review
+bit4woo,python_sec,https://github.com/bit4woo/python_sec,1300,python安全和代码审计相关资料收集 resource collection of python security and code review
+code-review-checklists,java-concurrency,https://github.com/code-review-checklists/java-concurrency,1300,Checklist for code reviews
+jiangsir404,Audit-Learning,https://github.com/jiangsir404/Audit-Learning,973,记录自己对《代码审计》的理解和总结，对危险函数的深入分析以及在p牛的博客和代码审计圈的收获

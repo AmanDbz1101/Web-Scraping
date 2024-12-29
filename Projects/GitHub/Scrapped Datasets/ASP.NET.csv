@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+bitwarden,server,https://github.com/bitwarden/server,15900,"Bitwarden infrastructure/backend (API, database, Docker, etc)."
+abpframework,abp,https://github.com/abpframework/abp,13100,"Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation."
+dotnet,AspNetCore.Docs,https://github.com/dotnet/AspNetCore.Docs,12700,Documentation for ASP.NET Core
+aspnetboilerplate,aspnetboilerplate,https://github.com/aspnetboilerplate/aspnetboilerplate,11900,ASP.NET Boilerplate - Web Application Framework
+nopSolutions,nopCommerce,https://github.com/nopSolutions/nopCommerce,9400,ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+ElectronNET,Electron.NET,https://github.com/ElectronNET/Electron.NET,7300,"Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor)."
+thangchung,clean-code-dotnet,https://github.com/thangchung/clean-code-dotnet,7300,🛁 Clean Code concepts and tools adapted for .NET
+RicoSuter,NSwag,https://github.com/RicoSuter/NSwag,6800,"The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript."
+FastEndpoints,FastEndpoints,https://github.com/FastEndpoints/FastEndpoints,4800,A light-weight REST API development framework for ASP.NET 6 and newer.
+dotnet,aspnet-api-versioning,https://github.com/dotnet/aspnet-api-versioning,3100,"Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core."
+mjebrahimi,Awesome-Microservices-DotNet,https://github.com/mjebrahimi/Awesome-Microservices-DotNet,2800,"💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET"
+smartstore,SmartStoreNET,https://github.com/smartstore/SmartStoreNET,2600,Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+loic-sharma,BaGet,https://github.com/loic-sharma/BaGet,2600,A lightweight NuGet and symbol server
+serenity-is,Serenity,https://github.com/serenity-is/Serenity,2600,Business Apps Made Simple with Asp.Net Core MVC / TypeScript
+JimBobSquarePants,ImageProcessor,https://github.com/JimBobSquarePants/ImageProcessor,2500,📷 A fluent wrapper around System.Drawing for the processing of image files.
+milanm,DotNet-Developer-Roadmap,https://github.com/milanm/DotNet-Developer-Roadmap,2300,The comprehensive .NET Developer Roadmap by seniority level.
+TrilonIO,aspnetcore-angular-universal,https://github.com/TrilonIO/aspnetcore-angular-universal,1500,"ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and more! By @TrilonIO"
+MarimerLLC,csla,https://github.com/MarimerLLC/csla,1300,A home for your business logic in any .NET application.
+smartstore,Smartstore,https://github.com/smartstore/Smartstore,1200,"A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 7"
+TrilonIO,aspnetcore-Vue-starter,https://github.com/TrilonIO/aspnetcore-Vue-starter,1200,"*NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO"

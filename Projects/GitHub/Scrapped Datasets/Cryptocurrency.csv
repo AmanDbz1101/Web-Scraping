@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+bitcoin,bitcoin,https://github.com/bitcoin/bitcoin,80900,Bitcoin Core integration/staging tree
+OpenBB-finance,OpenBB,https://github.com/OpenBB-finance/OpenBB,34700,"Investment Research for Everyone, Everywhere."
+ccxt,ccxt,https://github.com/ccxt/ccxt,33800,A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+freqtrade,freqtrade,https://github.com/freqtrade/freqtrade,33100,"Free, open source crypto trading bot"
+dogecoin,dogecoin,https://github.com/dogecoin/dogecoin,14800,very currency
+monero-project,monero,https://github.com/monero-project/monero,9100,"Monero: the secure, private, untraceable cryptocurrency"
+xmrig,xmrig,https://github.com/xmrig/xmrig,8900,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark"
+hummingbot,hummingbot,https://github.com/hummingbot/hummingbot,8800,Open source software that helps you create and deploy high-frequency crypto trading bots
+dvf,blockchain,https://github.com/dvf/blockchain,7800,A simple Blockchain in Python
+lightningnetwork,lnd,https://github.com/lightningnetwork/lnd,7800,Lightning Network Daemon ⚡️
+kroma-network,tachyon,https://github.com/kroma-network/tachyon,7800,Modular ZK(Zero Knowledge) backend accelerated by GPU
+StockSharp,StockSharp,https://github.com/StockSharp/StockSharp,7500,"Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options)."
+firmai,financial-machine-learning,https://github.com/firmai/financial-machine-learning,7500,A curated list of practical financial machine learning tools and applications.
+lbryio,lbry-sdk,https://github.com/lbryio/lbry-sdk,7200,"The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps."
+cosmos,cosmos-sdk,https://github.com/cosmos/cosmos-sdk,6400,⛓️ A Framework for Building High Value Public Blockchains ✨
+sammchardy,python-binance,https://github.com/sammchardy/python-binance,6200,Binance Exchange API python implementation for automated trading
+jesse-ai,jesse,https://github.com/jesse-ai/jesse,5900,An advanced crypto trading bot written in Python
+tendermint,tendermint,https://github.com/tendermint/tendermint,5700,⟁ Tendermint Core (BFT Consensus) in Go
+chrisleekr,binance-trading-bot,https://github.com/chrisleekr/binance-trading-bot,5100,Automated Binance trading bot - Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
+sea-protocol,seaprotocol,https://github.com/sea-protocol/seaprotocol,5100,"Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime!"

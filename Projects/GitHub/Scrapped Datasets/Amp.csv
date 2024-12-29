@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+amphp,amp,https://github.com/amphp/amp,4300,A non-blocking concurrency framework for PHP applications. 🐘
+danog,MadelineProto,https://github.com/danog/MadelineProto,2900,Async PHP client API for the telegram MTProto protocol
+amphp,parallel,https://github.com/amphp/parallel,794,"An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads."
+unreal4u,telegram-api,https://github.com/unreal4u/telegram-api,794,Complete async capable Telegram bot API implementation for PHP7
+amphp,http-client,https://github.com/amphp/http-client,708,"An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses."
+amphp,byte-stream,https://github.com/amphp/byte-stream,371,A non-blocking stream abstraction for PHP based on Amp.
+amphp,mysql,https://github.com/amphp/mysql,362,"An async MySQL client for PHP, optimizing database interactions with efficient non-blocking capabilities. Perfect for responsive, high-performance applications."
+php-service-bus,service-bus,https://github.com/php-service-bus/service-bus,348,PHP Service Bus (publish-subscribe pattern) implementation
+amphp,parallel-functions,https://github.com/amphp/parallel-functions,271,Simplified parallel processing for PHP based on Amp.
+xtrime-ru,TelegramRSS,https://github.com/xtrime-ru/TelegramRSS,252,Convert telegram posts to RSS or json in amphp server
+amphp,socket,https://github.com/amphp/socket,237,Non-blocking socket and TLS functionality for PHP based on Amp.
+amphp,process,https://github.com/amphp/process,234,An async process dispatcher for Amp.
+amphp,sync,https://github.com/amphp/sync,166,Non-blocking synchronization primitives for PHP based on Amp and Revolt.
+amphp,dns,https://github.com/amphp/dns,165,Async DNS resolution for PHP based on Amp.
+amphp,redis,https://github.com/amphp/redis,159,"Efficient asynchronous communication with Redis servers, enabling scalable and responsive data storage and retrieval."
+amphp,websocket-client,https://github.com/amphp/websocket-client,147,Async WebSocket client for PHP based on Amp.
+kelunik,acme,https://github.com/kelunik/acme,121,Async ACME library written in PHP based on the Amp concurrency framework.
+amphp,serialization,https://github.com/amphp/serialization,115,Serialization tools for IPC and data storage in PHP.
+amphp,websocket-server,https://github.com/amphp/websocket-server,114,WebSocket component for PHP based on the Amp HTTP server.
+amphp,cache,https://github.com/amphp/cache,105,A fiber-aware cache API based on Amp and Revolt.

@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+Genymobile,scrcpy,https://github.com/Genymobile/scrcpy,115000,Display and control your Android device
+neovim,neovim,https://github.com/neovim/neovim,84700,Vim-fork focused on extensibility and usability
+obsproject,obs-studio,https://github.com/obsproject/obs-studio,61200,OBS Studio - Free and open source software for live streaming and screen recording
+fffaraz,awesome-cpp,https://github.com/fffaraz/awesome-cpp,60900,"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+git,git,https://github.com/git/git,53000,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+FFmpeg,FFmpeg,https://github.com/FFmpeg/FFmpeg,47000,Mirror of https://git.ffmpeg.org/ffmpeg.git
+serhii-londar,open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps,42200,🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+vim,vim,https://github.com/vim/vim,37100,The official Vim repository
+curl,curl,https://github.com/curl/curl,36400,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+huihut,interview,https://github.com/huihut/interview,35100,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…"
+mpv-player,mpv,https://github.com/mpv-player/mpv,29100,🎥 Command line video player
+ggreer,the_silver_searcher,https://github.com/ggreer/the_silver_searcher,26300,"A code-searching tool similar to ack, but faster."
+ossrs,srs,https://github.com/ossrs/srs,26100,"SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181."
+kovidgoyal,kitty,https://github.com/kovidgoyal/kitty,25400,"Cross-platform, fast, feature-rich, GPU based terminal"
+raysan5,raylib,https://github.com/raysan5/raylib,24000,A simple and easy-to-use library to enjoy videogames programming
+microsoft,vcpkg,https://github.com/microsoft/vcpkg,23600,"C++ Library Manager for Windows, Linux, and MacOS"
+google,flatbuffers,https://github.com/google/flatbuffers,23500,FlatBuffers: Memory Efficient Serialization Library
+ruby,ruby,https://github.com/ruby/ruby,22200,The Ruby Programming Language
+hashcat,hashcat,https://github.com/hashcat/hashcat,21600,World's fastest and most advanced password recovery utility
+forthespada,CS-Books,https://github.com/forthespada/CS-Books,21600,🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~

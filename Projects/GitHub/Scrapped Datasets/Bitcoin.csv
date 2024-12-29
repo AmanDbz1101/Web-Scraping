@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+bitcoin,bitcoin,https://github.com/bitcoin/bitcoin,80900,Bitcoin Core integration/staging tree
+ccxt,ccxt,https://github.com/ccxt/ccxt,33800,A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+freqtrade,freqtrade,https://github.com/freqtrade/freqtrade,33100,"Free, open source crypto trading bot"
+bitcoinbook,bitcoinbook,https://github.com/bitcoinbook/bitcoinbook,23800,Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+HelloZeroNet,ZeroNet,https://github.com/HelloZeroNet/ZeroNet,18400,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+solana-labs,solana,https://github.com/solana-labs/solana,13500,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+bbfamily,abu,https://github.com/bbfamily/abu,12500,阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
+askmike,gekko,https://github.com/askmike/gekko,10100,A bitcoin trading bot written in node - https://gekko.wizb.it/
+hummingbot,hummingbot,https://github.com/hummingbot/hummingbot,8800,Open source software that helps you create and deploy high-frequency crypto trading bots
+UFund-Me,Qbot,https://github.com/UFund-Me/Qbot,8600,[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
+getumbrel,umbrel,https://github.com/getumbrel/umbrel,7800,"A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system."
+dvf,blockchain,https://github.com/dvf/blockchain,7800,A simple Blockchain in Python
+lightningnetwork,lnd,https://github.com/lightningnetwork/lnd,7800,Lightning Network Daemon ⚡️
+spesmilo,electrum,https://github.com/spesmilo/electrum,7600,Electrum Bitcoin Wallet
+lbryio,lbry-sdk,https://github.com/lbryio/lbry-sdk,7200,"The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps."
+yeasy,blockchain_guide,https://github.com/yeasy/blockchain_guide,6900,"Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger."
+btcpayserver,btcpayserver,https://github.com/btcpayserver/btcpayserver,6500,"Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor."
+btcsuite,btcd,https://github.com/btcsuite/btcd,6300,An alternative full node bitcoin implementation written in Go (golang)
+jesse-ai,jesse,https://github.com/jesse-ai/jesse,5900,An advanced crypto trading bot written in Python
+bitcoinjs,bitcoinjs-lib,https://github.com/bitcoinjs/bitcoinjs-lib,5800,A javascript Bitcoin library for node.js and browsers.

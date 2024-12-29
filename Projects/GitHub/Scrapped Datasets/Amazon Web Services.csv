@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+ByteByteGoHq,system-design-101,https://github.com/ByteByteGoHq/system-design-101,67200,Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises,67100,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+localstack,localstack,https://github.com/localstack/localstack,56900,💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+serverless,serverless,https://github.com/serverless/serverless,46500,"⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
+donnemartin,data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,27700,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+pulumi,pulumi,https://github.com/pulumi/pulumi,22100,Pulumi - Infrastructure as Code in any programming language 🚀
+danny-avila,LibreChat,https://github.com/danny-avila/LibreChat,20100,"Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project."
+getsops,sops,https://github.com/getsops/sops,17300,Simple and flexible tool for managing secrets
+kubernetes-sigs,kubespray,https://github.com/kubernetes-sigs/kubespray,16300,Deploy a Production Ready Kubernetes Cluster
+aws,aws-cli,https://github.com/aws/aws-cli,15700,Universal Command Line Interface for Amazon Web Services
+ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes,15200,A curated list for awesome kubernetes sources 🚢🎉
+caprover,caprover,https://github.com/caprover/caprover,13500,Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+milanm,DevOps-Roadmap,https://github.com/milanm/DevOps-Roadmap,13200,DevOps Roadmap for 2024. with learning resources
+GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer,12900,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+donnemartin,awesome-aws,https://github.com/donnemartin/awesome-aws,12600,"A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome."
+aws,aws-cdk,https://github.com/aws/aws-cdk,11800,The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+infracost,infracost,https://github.com/infracost/infracost,11100,Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+prowler-cloud,prowler,https://github.com/prowler-cloud/prowler,11000,"Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more."
+apereo,cas,https://github.com/apereo/cas,11000,Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
+aws,chalice,https://github.com/aws/chalice,10700,Python Serverless Microframework for AWS

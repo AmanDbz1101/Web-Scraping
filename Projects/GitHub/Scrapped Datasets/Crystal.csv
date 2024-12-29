@@ -1,0 +1,21 @@
+User,Project,Project URL,Stars,Description
+crystal-lang,crystal,https://github.com/crystal-lang/crystal,19500,The Crystal Programming Language
+kemalcr,kemal,https://github.com/kemalcr/kemal,3700,"Fast, Effective, Simple Web Framework"
+veelenga,awesome-crystal,https://github.com/veelenga/awesome-crystal,3400,"💎 A collection of awesome Crystal libraries, tools, frameworks and software"
+luckyframework,lucky,https://github.com/luckyframework/lucky,2600,"A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts."
+amberframework,amber,https://github.com/amberframework/amber,2600,"A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyping, less bugs, and blazing fast performance."
+vitobotta,hetzner-k3s,https://github.com/vitobotta/hetzner-k3s,2000,The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+getmango,Mango,https://github.com/getmango/Mango,1700,Mango is a self-hosted manga server and web reader
+ffwff,lilith,https://github.com/ffwff/lilith,1200,x86-64 os made in crystal
+drujensen,fib,https://github.com/drujensen/fib,871,Performance Benchmark of top Github languages
+hanabi1224,Programming-Language-Benchmarks,https://github.com/hanabi1224/Programming-Language-Benchmarks,675,Yet another implementation of computer language benchmarks game
+amethyst-framework,amethyst,https://github.com/amethyst-framework/amethyst,645,Amethyst is a Rails inspired web-framework for Crystal language
+owasp-noir,noir,https://github.com/owasp-noir/noir,625,Attack surface detector that identifies endpoints by static analysis
+askn,crystal-by-example,https://github.com/askn/crystal-by-example,550,Crystal By Example
+crystal-ameba,ameba,https://github.com/crystal-ameba/ameba,525,A static code analysis tool for Crystal
+crystal-community,icr,https://github.com/crystal-community/icr,505,Interactive console for Crystal programming language
+will,crystal-pg,https://github.com/will/crystal-pg,463,a postgres driver for crystal
+elbywan,crystalline,https://github.com/elbywan/crystalline,454,A Language Server Protocol implementation for Crystal. 🔮
+martenframework,marten,https://github.com/martenframework/marten,422,The pragmatic web framework.
+imdrasil,jennifer.cr,https://github.com/imdrasil/jennifer.cr,421,Crystal ORM using ActiveRecord pattern with flexible query DSL
+vim-crystal,vim-crystal,https://github.com/vim-crystal/vim-crystal,418,Vim filetype and tools support for Crystal language.
