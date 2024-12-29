@@ -47,11 +47,16 @@ data = pd.DataFrame(data_dict)
 
 st.header("Top topics found")
 
-st.dataframe(data)
+st.dataframe(data,column_config={
+                "Link": st.column_config.LinkColumn("Link"),
+       
+                },
+                hide_index=True,)
     
-options = st.multiselect(
+option = st.selectbox(
     "Choose the topics you want to scrape",
     data['Topic'],
+    index=None,
 )
 
 # st.write("You selected:", options)
@@ -63,7 +68,7 @@ if st.button:
 
     for link, topic in zip(data['Link'] , data['Topic']):
         
-        if topic in options:
+        if (topic == option):
             st.write(f'Scraping top repositories for {topic}')
             
             response = requests.get(link)
@@ -97,6 +102,18 @@ if st.button:
                 'Description': description_data
             }
             page_df = pd.DataFrame(page_dict)
-            st.dataframe(page_df)
+            st.dataframe(page_df, 
+                column_config={
+                # "name": "App name",
+                "Stars": st.column_config.NumberColumn(
+                    "Stars",
+                    help="Number of stars on GitHub",
+                    format="%d ⭐",
+                ),
+                "Project URL": st.column_config.LinkColumn("Project URL"),
+       
+                },
+                hide_index=True,
+            )
         
     
