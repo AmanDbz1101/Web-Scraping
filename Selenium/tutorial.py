@@ -17,5 +17,5 @@ input_element = driver.find_element(By.CLASS_NAME, 'gLFyf')
 input_element.send_keys('Python'+Keys.ENTER)
 
 
-time.sleep(10)
+time.sleep(5)
 driver.quit()
