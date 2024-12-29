@@ -50,7 +50,7 @@ st.header("Top topics found")
 st.dataframe(data)
     
 options = st.multiselect(
-    "What are your favorite colors",
+    "Choose the topics you want to scrape",
     data['Topic'],
 )
 
